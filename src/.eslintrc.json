@@ -1,0 +1,10 @@
+{
+    "extends": "@rocketseat/eslint-config/react",
+    "end_of_line": "lf"
+}
+
+
+
+
+
+
